@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Bases And AI**
 
-- 👨‍💻 All of my projects are available at [muhammedh-shadir](muhammedh-shadir)
+- 👨‍💻 All of my projects are available at [MOHAMED_AZELMAD](https://github.com/azelmadmohamed/)
 
 - 💬 Ask me about **MERN stack and related technologies**
 
