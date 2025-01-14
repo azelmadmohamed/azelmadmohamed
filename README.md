@@ -1,4 +1,4 @@
-![Shadir's GitHub Banner](https://scontent.frak4-1.fna.fbcdn.net/v/t39.30808-6/471252253_1095802158956435_2340104113630462715_n.png?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeF8O734ga1e65Wn0YLDhdQnuTd92U5cDW-5N33ZTlwNb_iF06oOL6W02z7tYW-IeceW5bSFhG_EubfVrZCGt_A8&_nc_ohc=xPNHnzVnS9kQ7kNvgGtmvBL&_nc_zt=23&_nc_ht=scontent.frak4-1.fna&_nc_gid=A8ci5ZuGphKjVcSvmYlrOLm&oh=00_AYALNsVQ4KVf1Z-SQf9JgnKVN7ldqUovbmTNyPoXiJapMg&oe=6771A939)
+![Shadir's GitHub Banner](https://media.licdn.com/dms/image/v2/D4E16AQFkUPuq2EJpzw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735123279564?e=1742428800&v=beta&t=GTauj-K3LyOaIsOx6J5MeHNvi6q7tXrGG0d8JCkhc-M)
 <h1 align="center">Hi 👋, I'm Mohamed Azelmad</h1>
 <h3 align="center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
