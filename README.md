@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="800" src="https://www.linkedin.com/in/mohamed-azelmad-908973281/overlay/background-image/">
+<img align="right" alt="Coding" width="800" src="https://media.licdn.com/dms/image/v2/D4E16AQFkUPuq2EJpzw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735123279564?e=1749686400&v=beta&t=L10vRc-kzifhz_uITHF05WA_Uah77zsHGxSZ2Gcs1ZM">
 <h1 align="center">Hi 👋, I'm Mohamed Azelmad</h1>
 <h3 align="center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
