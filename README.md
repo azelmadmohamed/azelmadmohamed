@@ -1,5 +1,4 @@
-![GitHub Banner](https://www.canva.com/design/DAGaSeSzPC0/j9O_x2KKoBLPZipmBMEqzw/edit)
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="800" src="https://www.linkedin.com/in/mohamed-azelmad-908973281/overlay/background-image/">
 <h1 align="center">Hi 👋, I'm Mohamed Azelmad</h1>
 <h3 align="center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
